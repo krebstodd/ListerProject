@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lister.iml" filepath="$PROJECT_DIR$/Lister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListerDAO/ListerDAO.iml" filepath="$PROJECT_DIR$/ListerDAO/ListerDAO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListerModel/ListerModel.iml" filepath="$PROJECT_DIR$/ListerModel/ListerModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListerService/ListerService.iml" filepath="$PROJECT_DIR$/ListerService/ListerService.iml" />
+    </modules>
+  </component>
+</project>
