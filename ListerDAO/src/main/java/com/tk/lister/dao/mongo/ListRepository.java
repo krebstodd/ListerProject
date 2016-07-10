@@ -8,4 +8,6 @@ import org.springframework.data.mongodb.repository.MongoRepository;
  */
 public interface ListRepository extends MongoRepository<ListerList, String> {
 
+    ListerList findByName(String name);
+
 }
